@@ -1,4 +1,4 @@
-# 🏥 Sistema para Gestión de un Centro Médico
+# 🏥 Sistema para la Gestión Inteligente de un Centro Médico
 
 ## 👥 Integrantes
 
@@ -12,7 +12,7 @@
 
 ## 📌 Descripción
 
-Este repositorio contiene los avances y el desarrollo del proyecto **Sistema para Gestión de un Centro Médico**.
+Este repositorio contiene los avances y el desarrollo del proyecto **Sistema para la Gestión Inteligente de un Centro Médico**.
 
 Aquí se documentan las diferentes etapas del proyecto, incluyendo el análisis, diseño, implementación y demás entregables realizados por el equipo de trabajo.
 
