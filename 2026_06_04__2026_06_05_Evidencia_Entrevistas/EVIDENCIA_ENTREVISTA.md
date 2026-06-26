@@ -20,7 +20,7 @@ La carpeta que contiene la evidencia de la entrevista puede consultarse
 en el siguiente enlace:
 
 > **Google Drive:**\
-> https://drive.google.com/xxxxxxxxxxxxxxxxxxxxxxxx
+> https://drive.google.com/drive/folders/1oqlUC5dUGhk6H1R6d0Fk4jfdsALW_Lbx?usp=sharing
 
 > **Nota:** Reemplace el enlace anterior por el enlace público de la
 > carpeta o de los videos.
