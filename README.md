@@ -4,9 +4,9 @@
 
 - Díaz Pontón Steven Santiago
 - Gamarra Zárate Jamileth Estefanía
-- Herrera Ramos Thais Melania
+- Herrera Ramos Thais Melanie
 - Tigasi Sampedro Paul Alexander
-- Trujillo Vega Mayummy Jaily
+- Trujillo Vega Mayummy Jailly
 
 ---
 
