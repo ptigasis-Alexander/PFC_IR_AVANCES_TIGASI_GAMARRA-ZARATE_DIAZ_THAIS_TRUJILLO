@@ -1,19 +1,36 @@
- Sistema de Gestión Inteligente para un Centro Médico
-Universidad Técnica Estatal de Quevedo
+## PFC — Sistema de Gestión Inteligente para un Centro Médico
+
+
 Proyecto Fin de Curso 
+
 Ingeniería de Requerimiento
+
+UTEQ (Universidad Técnica Estatal de Quevedo)
+
 Carrera de Software
+
 Especificación de Requisitos de Software (ERS/SRS) elaborada conforme al estándar IEEE/ISO/IEC 29148:2018.
+
 Integrantes
+--
 - Díaz Pontón Steven Santiago
 - Gamarra Zárate Jamileth Estefanía
 - Herrera Ramos Thais Melanie
 - Tigasi Sampedro Paul Alexander
 - Trujillo Vega Mayummy Jailly
+
+---
 Docente: Ing. Gleiston Cicerón Guerrero Ulloa — 4to "A"
-Documento final
+---
+
+
+📄 Documento final
+ 
  `ERS_SRS_Sistema_Gestion_Centro_Medico.md` — ERS/SRS consolidado (Entrega 2 / 1B): descripción del sistema, RF, RNF, historias de usuario, modelado UML, MoSCoW/Kano, trazabilidad y evidencias.
-Estructura del repositorio
+ 
+📂 Estructura del repositorio
+--
+```
 PFC_IR_AVANCES_TIGASI_GAMARRA-ZARATE_DIAZ_THAIS_TRUJILLO/
 │
 ├── 2026_06_04__2026_06_05_Evidencias_Entrevistas/
@@ -31,7 +48,8 @@ PFC_IR_AVANCES_TIGASI_GAMARRA-ZARATE_DIAZ_THAIS_TRUJILLO/
 │   ├── 2026_06_12_Diagrama de Casos de Uso...
 │   ├── 2026_06_12_Diagrama_Clases_Sistema...
 │   └── Diagramas_UML/
-├── Evidencias_Avance_PFC/← elicitación, RF/RNF, US, priorización y trazabilidad
+│
+├── Evidencias_Avance_PFC/          ← elicitación, RF/RNF, US, priorización y trazabilidad
 │   ├── 31-05-2026_DESCRIPCIÓN_PFC_STEVEN_DÍAZ.pdf
 │   ├── 31-05-2026_Tabla de stakeholders y análisis de interés-influencia_Jamileth Gamarra Zárate.pdf
 │   ├── 2026-31-05_GuiaDeEntrevista_TrujilloMayummy.pdf
@@ -53,13 +71,18 @@ PFC_IR_AVANCES_TIGASI_GAMARRA-ZARATE_DIAZ_THAIS_TRUJILLO/
 │
 ├── ERS_SRS_Sistema_Gestion_Centro_Medico.md
 └── README.md
- Guía por carpeta
+```
+🗂️ Guía por carpeta
+---
 Carpeta	Contenido
+--
 `2026_06_04__2026_06_05_Evidencias_Entrevistas`	Actas de entrevista firmadas, formularios de consentimiento y evidencia audiovisual del trabajo de campo.
 `2026_06_07_Evidencia_Diagramas_iStar`	Modelo de metas i* 2.0 (Strategic Dependency y Strategic Rationale) elaborado en draw.io.
 `Evidencia_Diagramas_PFC`	Diagramas de casos de uso y de clases conceptual elaborados en StarUML.
 `Evidencias_Avance_PFC`	Núcleo del ERS: descripción del sistema, stakeholders, requisitos crudos, RF (01–16), RNF (ISO 25010), especificación textual de CU, historias de usuario (US-01 a US-04, Gherkin/INVEST), MoSCoW, Kano y matriz de trazabilidad.
-Alcance del sistema
+
+🎯 Alcance del sistema
+--
 Agendamiento y gestión de citas médicas
 Historia clínica electrónica
 Emisión de recetas médicas
@@ -68,7 +91,9 @@ Control de inventario de medicamentos
 Reportes de gestión y notificaciones automáticas (WhatsApp/correo)
 Administración de usuarios, roles (RBAC) y auditoría
 Asistente virtual con IA (incorporación progresiva — RF-16)
-Metodología
+
+📚 Metodología
+--
 Elicitación: entrevista semiestructurada + cuestionario digital (IREB CPRE FL v3.1), 6 participantes del personal médico.
 Priorización: MoSCoW y Modelo de Kano sobre 32 requisitos crudos (RC-01 a RC-32) → 16 RF + 7 RNF.
 Modelado: i* 2.0 (metas) y UML (casos de uso y clases) en StarUML/draw.io.
