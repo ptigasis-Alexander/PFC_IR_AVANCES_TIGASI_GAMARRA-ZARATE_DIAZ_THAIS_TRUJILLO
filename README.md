@@ -24,11 +24,11 @@ Docente: Ing. Gleiston Cicerón Guerrero Ulloa — 4to "A"
 ---
 
 
-📄 Documento final
+ Documento final
  
  `ERS_SRS_Sistema_Gestion_Centro_Medico.md` — ERS/SRS consolidado (Entrega 2 / 1B): descripción del sistema, RF, RNF, historias de usuario, modelado UML, MoSCoW/Kano, trazabilidad y evidencias.
  
-📂 Estructura del repositorio
+ Estructura del repositorio
 --
 ```
 PFC_IR_AVANCES_TIGASI_GAMARRA-ZARATE_DIAZ_THAIS_TRUJILLO/
@@ -72,7 +72,7 @@ PFC_IR_AVANCES_TIGASI_GAMARRA-ZARATE_DIAZ_THAIS_TRUJILLO/
 ├── ERS_SRS_Sistema_Gestion_Centro_Medico.md
 └── README.md
 ```
-🗂️ Guía por carpeta
+ Guía por carpeta
 ---
 Carpeta	Contenido
 --
@@ -81,7 +81,7 @@ Carpeta	Contenido
 `Evidencia_Diagramas_PFC`	Diagramas de casos de uso y de clases conceptual elaborados en StarUML.
 `Evidencias_Avance_PFC`	Núcleo del ERS: descripción del sistema, stakeholders, requisitos crudos, RF (01–16), RNF (ISO 25010), especificación textual de CU, historias de usuario (US-01 a US-04, Gherkin/INVEST), MoSCoW, Kano y matriz de trazabilidad.
 
-🎯 Alcance del sistema
+ Alcance del sistema
 --
 Agendamiento y gestión de citas médicas
 Historia clínica electrónica
@@ -92,7 +92,7 @@ Reportes de gestión y notificaciones automáticas (WhatsApp/correo)
 Administración de usuarios, roles (RBAC) y auditoría
 Asistente virtual con IA (incorporación progresiva — RF-16)
 
-📚 Metodología
+ Metodología
 --
 Elicitación: entrevista semiestructurada + cuestionario digital (IREB CPRE FL v3.1), 6 participantes del personal médico.
 Priorización: MoSCoW y Modelo de Kano sobre 32 requisitos crudos (RC-01 a RC-32) → 16 RF + 7 RNF.
