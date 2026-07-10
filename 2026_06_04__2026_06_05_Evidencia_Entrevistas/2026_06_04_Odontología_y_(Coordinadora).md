@@ -2,7 +2,7 @@
 
 # Evidencia de la Entrevista realizada 
 ---
-## Área de Odontología (Coordinadora)
+## Área (Coordinadora)
 
 Acontinuacion se presenta la entrevista realizado con el fin de obtener informacion para el levantamiento de los requerimientos 
 del software.
@@ -49,6 +49,9 @@ https://github.com/user-attachments/assets/890780c9-738f-4097-9aa3-7cee47af995b
 
 ---
 
+## Área de Odontología 
+
+---
 ## Parte 8
 
 https://github.com/user-attachments/assets/12b81b7e-1026-4a53-89a7-7c4deaa6f4b4
