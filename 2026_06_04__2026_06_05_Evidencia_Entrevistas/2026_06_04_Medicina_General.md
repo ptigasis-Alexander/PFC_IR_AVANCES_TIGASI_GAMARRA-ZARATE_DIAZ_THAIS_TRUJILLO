@@ -8,6 +8,10 @@ La evidencia de esta actividad corresponde a los archivos de video generados dur
 
 ---
 
+## Área de Medicia General
+
+---
+
 ## Parte 1
 
 https://github.com/user-attachments/assets/3d21228c-eb16-4685-8119-3ce0baf196c9
