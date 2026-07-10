@@ -11,6 +11,10 @@ La evidencia de esta actividad corresponde a los archivos de video generados dur
 
 ---
 
+## Á rea de Psicologia 
+
+---
+
 ## Parte 1
 
 https://github.com/user-attachments/assets/f7f65983-1ab0-420f-b9ed-74469764449a
