@@ -8,6 +8,10 @@ La evidencia de esta actividad corresponde a los archivos de video generados dur
 
 ---
 
+## Área de Nutricción
+
+---
+
 ## Parte 1
 
 https://github.com/user-attachments/assets/e62cea4b-5e16-4ce3-a8ae-ef309e8b8b45
