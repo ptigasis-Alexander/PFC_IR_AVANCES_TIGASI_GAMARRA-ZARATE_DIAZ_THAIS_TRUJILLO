@@ -8,6 +8,10 @@ La evidencia de esta actividad corresponde a los archivos de video generados dur
 
 ---
 
+## Área de Terapia Fisica 
+
+---
+
 ## Parte 1
 
 https://github.com/user-attachments/assets/10b6b287-f53d-4b6b-b511-ada093fd8403
